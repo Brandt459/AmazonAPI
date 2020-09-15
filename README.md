@@ -1,0 +1,1 @@
+Enter '/?s={search+term}' after the url. The program will return the 5 cheapest listings in json format.
